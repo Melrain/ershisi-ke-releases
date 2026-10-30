@@ -4,7 +4,7 @@ This repository **only hosts Android APK release binaries** for 二十四刻.
 
 - **No source code** is published here.
 - Source remains in a private repository.
-- Public download page: https://melrain.github.io/ershisi-ke-releases/
+- Public download page: https://melrain.github.io/ershisi-ke-releases/ (GitHub Pages, `main` / root)
 
 ## Latest APK
 
